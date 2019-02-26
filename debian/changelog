@@ -1,3 +1,9 @@
+yaml-cpp (0.6.2-4ubuntu1ppa1~18.04.1) bionic; urgency=medium
+
+  * Backport to Ubuntu 18.04 LTS
+
+ -- Hiroaki Nakamura <hnakamur@gmail.com>  Tue, 26 Feb 2019 13:54:46 +0900
+
 yaml-cpp (0.6.2-4fakesync1) disco-proposed; urgency=medium
 
   * Fake sync due to mismatching orig tarball.
